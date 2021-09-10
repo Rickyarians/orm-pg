@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ricky",
+    "password": "ricky",
+    "database": "hris",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database2",
+    "host": "dslkdlsjldsldjls",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database3",
+    "host": "dksldkslkdlskl",
+    "dialect": "mysql"
+  }
+}
